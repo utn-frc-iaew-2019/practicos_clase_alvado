@@ -1,0 +1,10 @@
+{
+  "legajo":123,
+  "apellido": "Perez",
+  "nombre": "Juan", 
+  "carrera": "Ingeniería en Sistemas",
+  "materiasCursadas": [
+  {"código":1,"nombre":"Física","nota":8},
+  {"código":3,"nombre":"Inglés","nota":7},
+  {"código":4,"nombre":"Álgebra","nota":null}]
+}
