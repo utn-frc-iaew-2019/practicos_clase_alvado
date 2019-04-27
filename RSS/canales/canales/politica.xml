@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0"> 
+<channel>
+	<title>Noticias</title>
+	<link>http://localhost:52933/politica.xml</link>
+	<description>Noticias de politica</description>
+
+	<item>
+		<title>La Voz politica</title>
+		<link>https://www.lavoz.com.ar/politica</link>
+		<description>Noticias de politica de Cordoba</description>
+	</item>
+	<item>
+		<title>Pagina 12 Pais</title>
+		<link>https://www.pagina12.com.ar/secciones/el-pais</link>
+		<description>Noticias del pais en Pagina 12</description>
+	</item>
+	<item>
+		<title>La Manana Politica</title>
+		<link>https://lmdiario.com.ar/categoria/41/politica</link>
+		<description>Noticias de politica en La Manana de Cordoba</description>
+	</item>
+
+</channel>
+</rss>
